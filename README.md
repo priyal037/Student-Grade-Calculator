@@ -1,5 +1,4 @@
 # Student-Grade-Calculator
-//use java programming language
 import java.util.Scanner;
 public class GradeCalculator{
     public static void main(String args[]){
